@@ -12,6 +12,7 @@
         "yarn": "1.22.5"
     },
     "dependencies": {
+	"@scayle/storefront-nuxt": "7.37.0",
         "lodash": "^4.17.20",
         "webpack": "^5.64.0"
     }
